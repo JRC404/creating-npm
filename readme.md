@@ -2,4 +2,6 @@
 This is the first version of the npm package.
 
 ## Install the package
-> npm i cn-create-npm
+```sh
+npm i cn-create-npm
+```
