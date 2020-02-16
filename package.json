@@ -1,0 +1,24 @@
+{
+  "name": "cn-create-npm",
+  "version": "1.0.0",
+  "description": "Code Nation NPM created",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRC404/creating-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "github"
+  ],
+  "author": "Jacob Reilly-Cooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JRC404/creating-npm/issues"
+  },
+  "homepage": "https://github.com/JRC404/creating-npm#readme"
+}
